@@ -18,4 +18,4 @@ This Processing project generates a set of random biometric data and four unique
 
 * The default number of data points is 30, but this can be changed in Line 1 of HeartVis.pde
 * This project uses a [random seed](https://processing.org/reference/randomSeed_.html), which can be edited in Line 2 of HeartVis.pde
-* An example of the data produced by seed 33 and the screenshots of its visualizations are in the folder "/example".
+* An example of the data produced by seed 33 and the screenshots of its visualizations are in the folder "/examples".
