@@ -1,6 +1,6 @@
 # HEART VIS
 
-Georgia Tech's [Design & Social Interaction Studio](http://designstudio.gatech.edu/index.html) is interested in exploring experimental ways to visualize heart rate (BPM), respiration (RPM), and galvanic sweat response (GSR).
+Georgia Tech's [Design & Social Interaction Studio](http://designstudio.gatech.edu/index.html) is interested in exploring experimental ways to visualize heart rate (BPM), respiration (RPM), and galvanic skin response (GSR).
 Read more about Heart Sense [here](http://designstudio.gatech.edu/heart.html).
 
 This Processing project generates a set of random biometric data and four unique ways to visualize it.
